@@ -6,5 +6,5 @@
 # git clone https://github.com/Najeeb890/TOPHacker.git
 # cd TOPHacker
 # ls 
-# python najeeb.py
+# python najeeb-hacker.py
 
