@@ -4,7 +4,6 @@
 # pkg install python2
 # pkg install git
 # git clone https://github.com/Najeeb890/TOPHacker.git
-# cd TOPHacker
-# ls 
-# python najeeb-hacker.py
-
+# cd Najeeb890
+# ls
+# python najeeb-hcker.py
